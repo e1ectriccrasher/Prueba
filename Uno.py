@@ -15,3 +15,8 @@ Saludos("Alex","Santi")
 
 # pues se supone que estas cosas están en mi rama que yo cree
 # bueno bueno
+
+
+def Suma(x, y):
+  z=x+y
+  print(" la suma entre " +str(x)+" "+str(y)+" es "+str(z))
