@@ -1,6 +1,3 @@
-
-
-
 print("hello world")
 
 # end=" " -> es para que imprima e una sola linea
@@ -28,3 +25,8 @@ def Suma(x, y):
   print(" la suma entre " +str(x)+" "+str(y)+" es "+str(z))
 
 Suma(23,66)
+
+
+def Resta(x, y):
+  z=x-y
+  print(str(z)+" es igual "+str(x)+" - "+str(y))
