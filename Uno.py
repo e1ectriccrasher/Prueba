@@ -1,7 +1,13 @@
+from venv import main
+
+
 print("hello world")
 
+# end=" " -> es para que imprima e una sola linea
+
 for x in(range(10)):
-  print(x)
+  print(x,end=" ")
+
 
 
 # x -> is the First name of a person a person
@@ -20,3 +26,5 @@ Saludos("Alex","Santi")
 def Suma(x, y):
   z=x+y
   print(" la suma entre " +str(x)+" "+str(y)+" es "+str(z))
+
+Suma(23,66)
