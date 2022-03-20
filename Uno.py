@@ -1,6 +1,3 @@
-
-
-
 print("hello world")
 
 # end=" " -> es para que imprima e una sola linea
