@@ -35,9 +35,14 @@ def Resta(x, y):
   
 print("hola")
 
+
 print("solo son mas pruebas")
 
 print("hay mas cosas por arreglar")
+  
+  
+  # esta ya es la buena
+
 
 
  
