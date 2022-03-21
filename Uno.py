@@ -33,12 +33,16 @@ def Resta(x, y):
   
   # mas cambio por revisar -> ya quedaron los cambios
   
-  print("hola")
+print("hola")
 
-  print("solo son mas pruebas")
+
+print("solo son mas pruebas")
+
+print("hay mas cosas por arreglar")
   
   
   # esta ya es la buena
+
 
 
  
