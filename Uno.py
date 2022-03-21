@@ -33,7 +33,7 @@ def Resta(x, y):
   
   # mas cambio por revisar
   
-  pritn("hola")
+  print("hola")
  
 
 
