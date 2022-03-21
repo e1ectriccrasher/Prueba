@@ -31,8 +31,5 @@ def Resta(x, y):
   z=x-y
   print(str(z)+" es igual "+str(x)+" - "+str(y))
  
-# sdsds. nueva linea prueba
 
-
-# mas cambios en  la madre
 
