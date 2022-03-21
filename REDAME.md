@@ -6,3 +6,13 @@ solo estos haciendo pruebas
 print("hello world")
 for x in range(11):
     print("->"+str(x))
+```
+
+```prolog
+
+papa(X,Y):-
+    hija(X,Z),nl,!.
+```
+
+
+
