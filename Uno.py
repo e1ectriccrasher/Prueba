@@ -3,7 +3,7 @@ print("hello world")
 # end=" " -> es para que imprima e una sola linea
 
 for x in(range(10)):
-  print(x,end=" ")
+  print(x)
 
 
 
@@ -31,9 +31,13 @@ def Resta(x, y):
   z=x-y
   print(str(z)+" es igual "+str(x)+" - "+str(y))
   
-  # mas cambio por revisar
+  # mas cambio por revisar -> ya quedaron los cambios
   
   print("hola")
+
+  print("solo son mas pruebas")
+
+
  
 
 
