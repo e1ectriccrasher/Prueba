@@ -32,6 +32,8 @@ def Resta(x, y):
   print(str(z)+" es igual "+str(x)+" - "+str(y))
   
   # mas cambio por revisar
+  
+  pritn("hola")
  
 
 
