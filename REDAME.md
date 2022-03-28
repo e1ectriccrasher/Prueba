@@ -14,5 +14,5 @@ papa(X,Y):-
     hija(X,Z),nl,!.
 ```
 
-## este es como un subtitulo
+## este es como un subtitulos
 
