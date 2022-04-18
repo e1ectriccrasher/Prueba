@@ -44,7 +44,15 @@ print("hay mas cosas por arreglar")
   # esta ya es la buena
 
 
+print("solo boy a hacer unos cambios")
 
+
+def multiplicacin(x,y):
+  z=x*y
+  print(str(z))
+
+
+multiplicacin(2,2)
  
 
 
